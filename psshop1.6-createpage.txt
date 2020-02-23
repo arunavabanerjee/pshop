@@ -422,6 +422,8 @@ $('#opticians-register').on('submit', function(){
 {/literal}
 {/if}
 ================================================================================================
+d. The page can be viewed using the following url: 
+http://localhost/prestashop/contactplus_v02/index.php?controller=customeroptions
 d. In admin panel move to "Preferences > SEO&URL" 
 --- create a new url selecting pages from the dropdown and generate the new page
 =================================================================================================
